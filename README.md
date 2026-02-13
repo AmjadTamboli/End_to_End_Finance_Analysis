@@ -58,7 +58,7 @@ Real-time Power BI dashboard
 
 Error detection logic for reconciliation
 
-Business Insights
+# Business Insights
 
 The system highlights financial performance trends such as:
 
