@@ -72,7 +72,7 @@ Expense structure visibility
 
 This allows decision-makers to move from raw accounting data to actionable insights.
 
-Skills Demonstrated
+# Skills Demonstrated
 
 Financial accounting workflow design
 
